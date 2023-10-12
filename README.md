@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Raju Ahammed
 #### I am Mern Stack Web Developer
-![I am Full Stack Web Developer-MERN]([<img src='https://i.ibb.co/BVkmx4H/banner.jpg' alt='Banner' height='30px'>])
+![I am Full Stack Web Developer-MERN]<img src='https://i.ibb.co/BVkmx4H/banner.jpg' alt='Banner' height='30px'>
 [<img src='https://i.ibb.co/BVkmx4H/banner.jpg' alt='Banner'>]
 I Am Full stack web Developer.I have learned a lot of new things in the last 8 months. And when I find something new, I try to learn it very quickly and try to learn new things.
 
