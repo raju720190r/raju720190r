@@ -3,7 +3,7 @@
 <img src='https://i.ibb.co/BVkmx4H/banner.jpg' alt='Banner'>
 I Am Full stack web Developer.I have learned a lot of new things in the last 8 months. And when I find something new, I try to learn it very quickly and try to learn new things.
 
-## Skills: Mongodb/Express Js/Node Js/Next Js / REACT  / HTML / CSS
+## Skills: HTML/ CSS/ BootStrap/ Tailwind CSS /React JS/ Next Js/Mongodb/Express Js/Node Js
 
 - 🔭 I’m currently working on EndGame 
 - 🌱 I’m currently learning Next Js And Redux 
