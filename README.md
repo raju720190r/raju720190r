@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Raju Ahammed
-#### I am Full Stack Web Developer-MERN
-![I am Full Stack Web Developer-MERN](https://www.rlogical.com/wp-content/uploads/2023/03/MERN-Stack-Best-for-Developing-Web-Apps.webp)
+#### I am Mern Stack Web Developer
+![I am Full Stack Web Developer-MERN](https://i.ibb.co/PCpzhXT/Screenshot-3.png)
 
 I Am Full stack web Developer.I have learned a lot of new things in the last 8 months. And when I find something new, I try to learn it very quickly and try to learn new things.
 
