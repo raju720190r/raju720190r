@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Raju Ahammed
-### I am Mern Stack Web Developer <img src='https://i.ibb.co/PCpzhXT/Screenshot-3.png' alt='Banner' height='30px'>
-[<img src='https://i.ibb.co/BVkmx4H/banner.jpg' alt='Banner'>]
+### I am Mern Stack Web Developer <img src='https://i.ibb.co/7bF6sgz/Screenshot-3-removebg-preview-1.png' alt='Banner' height='20px'>
+<img src='https://i.ibb.co/BVkmx4H/banner.jpg' alt='Banner'>
 I Am Full stack web Developer.I have learned a lot of new things in the last 8 months. And when I find something new, I try to learn it very quickly and try to learn new things.
 
-Skills: Mongodb/Express Js/Node Js/Next Js / REACT  / HTML / CSS
+## Skills: Mongodb/Express Js/Node Js/Next Js / REACT  / HTML / CSS
 
 - 🔭 I’m currently working on EndGame 
 - 🌱 I’m currently learning Next Js And Redux 
