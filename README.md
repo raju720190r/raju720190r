@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raju720190r&label=Profile%20views&color=0e75b6&style=flat" alt="raju720190r" /> </p>
 <h2 align="left">A passionate Frontend Developer from Bangladesh</h3>
 
-<img src='https://i.ibb.co/BVkmx4H/banner.jpg' alt='Banner'>
+<img src='https://i.ibb.co/x66p1GJ/Banner.png' alt='Banner'>
 
 - 🔭 I’m currently working on **EndGame**
 
