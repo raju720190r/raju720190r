@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking to collaborate on [Github Team Projects](https://dwelling-olive.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://raju-720190r.web.app/](https://raju-720190r.web.app/)
+- 👨‍💻 All of my projects are available at [https://raju-720190r.web.app/](https://rajuahmmedwd.web.app/)
 
 - 💬 Ask me about **Web Development**
 
